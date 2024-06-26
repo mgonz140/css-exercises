@@ -1,0 +1,21 @@
+/* styles.css */
+
+.odd-number {
+    background-color: rgb(250, 150, 175);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#element-two {
+    color: hsl(226, 88%, 53%);
+    font-size: 36px;
+}
+
+.odd-number.cooler {
+    font-size: 24px;
+}
+
+#element-four {
+    background-color:#9afa82;
+    font-size: 24px;
+    font-weight: 700;
+}
